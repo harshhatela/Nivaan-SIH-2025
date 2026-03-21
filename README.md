@@ -1,10 +1,12 @@
-# Nivaan: Your Mental Wellness Companion for High School Students
+# 🧠 Nivaan — Mental Wellness Platform for Students
 
 ![Nivaan Logo](public/favicon.png) ## ✨ Project Overview
 
-**Nivaan** (meaning 'salvation' or 'relief' in Sanskrit) is a comprehensive mental wellness solution designed specifically for high school students. Recognizing the unique pressures and challenges faced by adolescents today, Nivaan aims to provide an accessible, supportive, and engaging platform to foster mental well-being, reduce stress, and promote a positive mindset.
+🚀 Smart India Hackathon 2025 Project
 
-Developed as a **Smart India Hackathon** project, Nivaan leverages modern web technologies to deliver a user-friendly and impactful experience.
+**Nivaan** (meaning 'salvation' or 'relief' in Sanskrit) is a web-based mental wellness platform built to help high school students manage stress, emotions, and daily challenges in a simple and practical way.
+The goal of this project is to provide easy-to-use tools that students can actually use in their daily life. Not just information, but real support.
+
 
 ## 💡 The Problem Nivaan Solves
 
@@ -19,14 +21,18 @@ High school is a critical period filled with academic stress, social pressures, 
 
 Nivaan is packed with features designed to support high school students:
 
-* **Interactive Mood Tracker:** Helps students monitor their emotional patterns over time.
-* **Guided Meditations & Breathing Exercises:** Short, age-appropriate sessions to calm the mind.
-* **Journaling Prompts:** Encourages reflective thinking and emotional processing.
-* **Resource Library:** Curated articles, videos, and external links on common teen mental health topics (stress, anxiety, academic pressure, social media impact, etc.).
-* **Goal Setting & Habit Building:** Tools to help students build positive routines and achieve personal wellness goals.
-* **Quick Stress Busters:** Engaging mini-activities to provide immediate relief from stress.
-* **Personalized Recommendations:** Tailored content based on user interactions and mood patterns.
-* **(Future Scope / Stretch Goal):** Anonymous peer support forum, integration with school counselors (with consent).
+* 📊 **Mood Tracker** : 
+Helps users monitor their emotional patterns over time
+* 🧘 **Breathing & Relaxation Exercises** : 
+Quick activities to reduce stress instantly
+* 📓 **Journaling Prompts** : 
+Encourages self-reflection and emotional clarity
+* 📚 **Curated Resources** : 
+Articles and content relevant to student mental health
+* 🎯 **Habit Builder** : 
+Helps in building positive daily routines
+* ⚡ **Quick Stress Relief Tools** : 
+Instant tools for calming the mind
 
 ## 🛠️ Technology Stack
 
@@ -104,7 +110,13 @@ This project was developed as part of the Smart India Hackathon. While currently
 
 ## 📄 License
 
-This project is designed and developed by team Lorem Ipsum. ## 🧑‍💻 Team
+This project is designed and developed by team Lorem Ipsum.
+
+## 👥 Team Members
+
+-  [Harsh Hatela](https://github.com/harshhatela)
+-  [Anas Ali](https://github.com/syAnasali)
+-  Contributors — Team Support  
 
 ---
 
