@@ -7,6 +7,11 @@
 **Nivaan** (meaning 'salvation' or 'relief' in Sanskrit) is a web-based mental wellness platform built to help high school students manage stress, emotions, and daily challenges in a simple and practical way.
 The goal of this project is to provide easy-to-use tools that students can actually use in their daily life. Not just information, but real support.
 
+## 🌐 Live Deployment
+
+🚀 **Visit Nivaan Live:** [https://nivaan-sih-2025-landing-page.vercel.app](https://nivaan-sih-2025-landing-page.vercel.app)
+
+The project is deployed on Vercel for instant access and high performance.
 
 ## 💡 The Problem Nivaan Solves
 
